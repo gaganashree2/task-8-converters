@@ -1,0 +1,10 @@
+Python 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=============================================== RESTART: C:/Users/WIN10/AppData/Local/Programs/Python/Python311/d.py ==============================================
+Temperature Converter
+1. Convert from Celsius to Fahrenheit
+2. Convert from Fahrenheit to Celsius
+Enter your choice (1/2): 1
+Enter temperature in Celsius: 67
+67.0°C is equal to 152.6°F.
